@@ -81,7 +81,7 @@ road-safety-analytics-dashboard/
 ├── README.md
 ├── requirements.txt
 └── utils.py
-> Adjust this structure to match your actual repo layout.
+```
 
 ## screenshots 
 ![dashboard1](image.png)
