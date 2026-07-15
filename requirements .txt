@@ -5,4 +5,3 @@ scikit-learn>=1.3
 numpy>=1.24
 
 
-'''these multiple outlines appears whenever i remove one of the months, remove london, or update the filters, it happens for all the sections . these multiple outlines around each chart is not at all good. fix it properly , this is the last chance to modify the dashboard. give ma the final fully completed dashboard with no errors.'''
