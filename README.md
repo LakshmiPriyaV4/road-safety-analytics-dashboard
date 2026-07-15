@@ -66,14 +66,21 @@ streamlit run app.py
 
 Then open `http://localhost:8501` in your browser.
 
-## 📂 Project Structure
+### 📁 Project Structure
 
+```text
 road-safety-analytics-dashboard/
-├── app.py                  # Main Streamlit entry point
-├── requirements.txt        # Python dependencies
-├── data/                   # Dataset (or download instructions)
-└── README.md
-
+├── .vscode/
+│   └── settings.json
+├── AccidentsBig.csv
+├── accidents_cleaned_v1.csv
+├── app.py
+├── config.toml
+├── image.png
+├── image-1.png
+├── README.md
+├── requirements.txt
+└── utils.py
 > Adjust this structure to match your actual repo layout.
 
 ## screenshots 
